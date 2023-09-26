@@ -24,7 +24,7 @@ https://hulu.cabbageweb.com/
 <img src="https://lh3.googleusercontent.com/d/1GTNFYoW8YfRF8AM5Is6rKsIB4No1ImJ_" width="34px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1zquFI2JBL5KaJVxhyWFh1NhBy6_8bTkl" width="135px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1lmIwVWT-LhcovOkCj4CF8paBGMeP9BNE" width="225px" height="30px" />
 
 ## Screenshot
-<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695753578/scrnli_9_27_2023_12-39-25_AM_eoexc3.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
+<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695754113/scrnli_9_27_2023_12-48-20_AM_csxvyu.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
 ## Support
 Need assistance? Drop us a line at info@cabbageweb.com or hop on over to our lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="15"></a> messenger.
